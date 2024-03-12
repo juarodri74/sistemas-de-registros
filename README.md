@@ -4,3 +4,6 @@
 Para ejecutar el sistema, debes poner;
 
 ´´´npn installa react´´´
+
+
+sistema de Registo
